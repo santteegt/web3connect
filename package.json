@@ -1,6 +1,6 @@
 {
-  "name": "web3connect",
-  "version": "1.0.0-beta.18",
+  "name": "@santteegt/web3connect",
+  "version": "1.0.0-beta.1",
   "description": "A single Web3 / Ethereum provider solution for all Wallets",
   "keywords": [
     "web3",
@@ -12,7 +12,7 @@
     "portis",
     "fortmatic"
   ],
-  "author": "Web3Connect <web3connect.com>",
+  "author": "Santiago Gonzalez <decentraminds.ai>",
   "license": "LGPL-3.0",
   "main": "lib/index.js",
   "directories": {
@@ -25,10 +25,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/web3connect/web3connect.git"
+    "url": "git+https://github.com/santteegt/web3connect.git#santteegt-web3connect"
   },
   "bugs": {
-    "url": "https://github.com/web3connect/web3connect/issues"
+    "url": "https://github.com/santteegt/web3connect/issues"
   },
   "scripts": {
     "clean": "rm -rf lib",
